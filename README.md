@@ -1,4 +1,4 @@
-# AI_Local_Search_Notes
+# Local Search
 
 - Mahsa Amani
 - Mobina Poornemant
